@@ -8,5 +8,5 @@
 <h1 align="center">Hi 👋, I'm Ayşenur Bolukçu</h1>
 ...
 <p align="center">
-  <img src="https://i.giphy.com/media/OsG2LuIzBXEl6/giphy.gif" width="300" alt="Hacker girl typing" />
+  <img src="/giphy.gif" width="300" alt="Hacker girl typing" />
 </p>
