@@ -7,6 +7,9 @@
 
 <h1 align="center">Hi 👋, I'm Ayşenur Bolukçu</h1>
 ...
-<p align="center">
-  <img src="/giphy.gif" width="300" alt="Hacker girl typing" />
-</p>
+                          ABOUT ME 
+🧠 Siber Güvenlik alanında ilerliyor ve çalışmalarımı yürütüyorum. 
+🛠 İlgi Alanlarım: CTF, Web Güvenliği, Ağ Güvenliği 
+🌱 Şu anda öğreniyorum: Yapay Zeka, OWASP Top 10 
+📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/aysenurbolukcu/)  
+🌐 Öğrendiklerimi paylaşmayı seviyorum [Medium](https://medium.com/@ayseblkcu)
