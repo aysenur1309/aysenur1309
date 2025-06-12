@@ -7,9 +7,4 @@
 
 <h1 align="center">Hi 👋, I'm Ayşenur Bolukçu</h1>
 ...
-                          ABOUT ME 
--🧠 Siber Güvenlik alanında ilerliyor ve çalışmalarımı yürütüyorum. 
--🛠 İlgi Alanlarım: CTF, Web Güvenliği, Ağ Güvenliği 
--🌱 Şu anda öğreniyorum: Yapay Zeka, OWASP Top 10 
--📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/aysenurbolukcu/)  
--🌐 Öğrendiklerimi paylaşmayı seviyorum [Medium](https://medium.com/@ayseblkcu)
+      
